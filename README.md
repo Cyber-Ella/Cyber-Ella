@@ -47,9 +47,7 @@ A platform for purchasing airtime, data, and paying utility bills.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Ella&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Ella&layout=compact&theme=radical)
+![GitHub](https://img.shields.io/badge/GitHub-Cyber--Ella-black?style=for-the-badge&logo=github)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cyber-ella&theme=radical)
 
