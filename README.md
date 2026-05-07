@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Cyberella 👋
 
-<!--
-**Cyber-Ella/Cyber-Ella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | MERN Stack Engineer | Computer Science Student
 
-Here are some ideas to get you started:
+I build scalable web applications and practical software solutions using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+
+### Tools & Technologies
+- Git & GitHub
+- REST APIs
+- Postman
+- Firebase
+- Render
+
+---
+
+## 📌 Featured Projects
+
+### 🗳 Blockchain Voting System
+A secure school voting platform powered by blockchain concepts.
+
+### 🌅 Morning Motivation Email Bot
+An automated email system that sends daily motivational messages to subscribers.
+
+### 📊 Sorting Visualizer
+Interactive visualization of sorting algorithms with animations.
+
+### 💳 Student Billing Platform
+A platform for purchasing airtime, data, and paying utility bills.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Ella&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Ella&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cyber-ella&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/cyberella01/
+- Email: emmanuellaobi05@gmail.com
+
+---
+
+⭐ Always building. Always learning.
